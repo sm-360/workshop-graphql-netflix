@@ -8,7 +8,9 @@ assignees: HadesArchitect, SonicDMG, RyanWelford
 ---
 
 **Name:** Sukaina Mawji
-**Email:** sukaina.mawji@gmail.com
+  
+**Email:** sukaina.mawjii@mail.com
+  
 **Linkedin Profile:** https://www.linkedin.com/in/sukaina-mawji-815497205/
 
 Attach the homework screenshots below:
